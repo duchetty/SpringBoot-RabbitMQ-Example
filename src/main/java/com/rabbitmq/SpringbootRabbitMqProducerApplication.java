@@ -8,6 +8,7 @@ public class SpringbootRabbitMqProducerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootRabbitMqProducerApplication.class, args);
+		System.out.println("Application run successfully");
 	}
 
 }
